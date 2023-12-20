@@ -1,0 +1,1 @@
+com.leadex.keycloak.custom.spi.provider.storage.JpaUserStorageProviderFactory
